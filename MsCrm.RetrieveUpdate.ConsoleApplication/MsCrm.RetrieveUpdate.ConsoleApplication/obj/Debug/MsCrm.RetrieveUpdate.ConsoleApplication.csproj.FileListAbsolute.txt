@@ -1,0 +1,8 @@
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\bin\Debug\MsCrm.RetrieveUpdate.ConsoleApplication.exe.config
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\obj\Debug\MsCrm.RetrieveUpdate.ConsoleApplication.csprojResolveAssemblyReference.cache
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\bin\Debug\MsCrm.RetrieveUpdate.ConsoleApplication.exe
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\bin\Debug\MsCrm.RetrieveUpdate.ConsoleApplication.pdb
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.dll
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\obj\Debug\MsCrm.RetrieveUpdate.ConsoleApplication.exe
+F:\workspace\example\MsCrm.RetrieveUpdate.ConsoleApplication\MsCrm.RetrieveUpdate.ConsoleApplication\obj\Debug\MsCrm.RetrieveUpdate.ConsoleApplication.pdb
